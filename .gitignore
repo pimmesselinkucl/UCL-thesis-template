@@ -1,0 +1,17 @@
+# LaTeX temp files
+*.aux
+*.bbl
+*.blg
+*.toc
+*.log
+*.pdf
+
+# Texmaker files
+*.tks
+*.synctex.gz
+
+# LaTeX Diff files
+diff.*
+
+# LaTeX package files
+*.sty

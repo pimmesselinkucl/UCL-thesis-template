@@ -1,0 +1,38 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass{ucl-thesis}
+
+\begin{document}
+
+% the front matter
+\input{frontmatter/coverpage}
+\maketitle
+\copyrightpage
+\abstractpage
+\tableofcontents
+\listoffigures
+\listoftables
+\dedicationpage
+\acknowledgments
+
+\onehalfspacing
+
+% include each chapter...
+\include{chapters/chapter1/chapter1}
+\include{chapters/chapter2/chapter2}
+\include{chapters/chapter3/chapter3}
+
+% include each appendix...
+\begin{appendices}
+  \include{chapters/chapter1/appendix}
+\end{appendices}
+
+% the back matter
+\clearpage
+\bibliographystyle{unsrt}
+\bibliography{references}
+
+\include{endmatter/colophon}
+
+\end{document}
