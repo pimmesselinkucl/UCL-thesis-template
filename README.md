@@ -27,7 +27,7 @@ Installation
 
 ### For Mac OS X ###
 
-1.	Download MacTex (when I tried, the main site was down so I used this mirror: [http://mirror.unl.edu/ctan/systems/mac/mactex/MacTeX.mpkg.zip](http://mirror.unl.edu/ctan/systems/mac/mactex/MacTeX.mpkg.zip)). It should be roughly 2 GB.
+1.	Download MacTeX.pkg from [http://tug.org/mactex/](http://tug.org/mactex/) or from a mirror (e.g. [http://archive.cs.uu.nl/mirror/CTAN/systems/mac/mactex/MacTeX.pkg](http://archive.cs.uu.nl/mirror/CTAN/systems/mac/mactex/MacTeX.pkg)). It should be roughly 2 GB.
 
 2.	Install.
 
