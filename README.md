@@ -3,7 +3,7 @@ An introduction
 
 This package provides all of the files needed to support the production and typesetting of a PhD thesis at UCL. For contributions, comments, and bug reports, please contact Pim Messelink at pim.messelink.10@ucl.ac.uk.
 
-This template is essentially a modiefied version of Jordan Suchow's (suchow@fas.harvard.edu), all credits go to him.
+This template is essentially a modified version of Jordan Suchow's (suchow@fas.harvard.edu), all credits go to him.
 
 Contributions were made by Andrew Leifer (leifer@fas.harvard.edu), and thanks to Clemens Eppner for the Ubuntu instructions.
 
