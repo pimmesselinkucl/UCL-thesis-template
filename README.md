@@ -27,11 +27,7 @@ Installation
 
 ### For Mac OS X ###
 
-1.	Download MacTex (when I tried, the main site was down so I used this mirror)
-
-		[http://mirror.unl.edu/ctan/systems/mac/mactex/MacTeX.mpkg.zip](http://mirror.unl.edu/ctan/systems/mac/mactex/MacTeX.mpkg.zip)
-
-	it should be roughly 2 GB
+1.	Download MacTex (when I tried, the main site was down so I used this mirror: [http://mirror.unl.edu/ctan/systems/mac/mactex/MacTeX.mpkg.zip](http://mirror.unl.edu/ctan/systems/mac/mactex/MacTeX.mpkg.zip)). It should be roughly 2 GB.
 
 2.	Install.
 
@@ -84,19 +80,19 @@ General Links
 UCL Approved Binding Sites:
 [http://www.ucl.ac.uk/current-students/research_degrees/binders_printers](http://www.ucl.ac.uk/current-students/research_degrees/binders_printers)
 
-THE BOOK BINDER - www.the-book-binder.co.uk
-BLISSETT BOOKBINDERS - www.blissetts.com
-BOOKBINDERS OF LONDON LTD - www.bookbindersoflondon.com
-CITY BINDERS - www.citybinders.co.uk
-COLLIS-BIRD & WITHEY - www.thesisbookbinding.co.uk
-THE DOCUMENT CENTRE - www.thesis-binding.co.uk
-J.MUIR & COMPANY - www.jmuirbookbinders.co.uk
-DARWIN PRESS - www.darwinpress.co.uk
-LONDON BOOKBINDING - www.londonbookbinding.co.uk
-WALTER NEWBURY PARTNERS LTD - www.walternewbury.co.uk
-STUDENT BOOKBINDING - www.studentbookbinding.co.uk
-THE HERTS BOOK BINDER - www.thehertsbookbinder.co.uk
-BOOKOBSCURE - www.bookobscure.co.uk
++	THE BOOK BINDER - www.the-book-binder.co.uk
++	BLISSETT BOOKBINDERS - www.blissetts.com
++	BOOKBINDERS OF LONDON LTD - www.bookbindersoflondon.com
++	CITY BINDERS - www.citybinders.co.uk
++	COLLIS-BIRD & WITHEY - www.thesisbookbinding.co.uk
++	THE DOCUMENT CENTRE - www.thesis-binding.co.uk
++	J.MUIR & COMPANY - www.jmuirbookbinders.co.uk
++	DARWIN PRESS - www.darwinpress.co.uk
++	LONDON BOOKBINDING - www.londonbookbinding.co.uk
++	WALTER NEWBURY PARTNERS LTD - www.walternewbury.co.uk
++	STUDENT BOOKBINDING - www.studentbookbinding.co.uk
++	THE HERTS BOOK BINDER - www.thehertsbookbinder.co.uk
++	BOOKOBSCURE - www.bookobscure.co.uk
 
 
 License
