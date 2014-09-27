@@ -1,8 +1,8 @@
 % -------------------------------------------------------------------
 %  @LaTeX-class-file{
 %     filename        = "ucl-thesis.cls",
-%     version         = "0.1",
-%     date            = "26 April 2013",
+%     version         = "0.5",
+%     date            = "27 September 2014",
 %     codetable       = "ISO/ASCII",
 %     keywords        = "LaTeX, ucl-thesis, harvard-thesis",
 %     supported       = "send email to pim.messelink.10@ucl.ac.uk",
@@ -10,14 +10,14 @@
 % --------------------------------------------------------------------
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{ucl-thesis}[2012/04/05 v0.4 University College London Thesis Class]
+\ProvidesClass{ucl-thesis}[2014/09/27 v0.5 University College London Thesis Class]
 \LoadClass[12pt, oneside, a4paper]{book}
 
 
 % Figures & Tables
 \RequirePackage{graphicx}
 \RequirePackage[closeFloats, noSeparatorLine]{fltpage} 
-\RequirePackage{subfig}
+\RequirePackage{subcaption}
 \RequirePackage{multirow}
 \RequirePackage{booktabs} % for much better looking tables
 \RequirePackage[labelfont={sf,bf,small},textfont={sf,small},justification=RaggedRight,margin=0pt, figurewithin=section, tablewithin=section]{caption}
@@ -44,7 +44,7 @@
 }
 \RequirePackage[small, md, sc]{titlesec}
 \RequirePackage{verbatim}
-\RequirePackage[subfigure,titles]{tocloft}
+\RequirePackage[titles]{tocloft}
 \setcounter{tocdepth}{1}
 \renewcommand{\cftchapfont}{\normalsize \scshape}
 \renewcommand\listfigurename{Listing of figures}
